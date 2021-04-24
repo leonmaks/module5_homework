@@ -1,0 +1,28 @@
+{
+  "name": "js_intro",
+  "version": "1.0.0",
+  "scripts": {
+    "run-01": "node src/run_01",
+    "dev-02": "nodemon src/task_02.ts",
+    "run-02": "ts-node src/task_02.ts",
+    "dev-03": "nodemon src/task_03.ts",
+    "run-03": "ts-node src/task_03.ts",
+    "dev-04": "nodemon src/task_04.ts",
+    "run-04": "ts-node src/task_04.ts",
+    "dev-05": "nodemon src/task_05.ts",
+    "run-05": "ts-node src/task_05.ts",
+    "dev-06": "nodemon src/task_06.ts",
+    "run-06": "ts-node src/task_06.ts",
+    "dev-07": "nodemon src/task_07.ts",
+    "run-07": "ts-node src/task_07.ts",
+    "dev-08": "nodemon src/task_08.ts",
+    "run-08": "ts-node src/task_08.ts"
+  },
+  "author": "Le Ma",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^14.14.41",
+    "open": "^8.0.6"
+  }
+}
