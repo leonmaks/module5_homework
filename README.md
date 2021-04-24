@@ -4,4 +4,5 @@
 
     $ yarn run-0[1-8]
 или
+
     $ npm run run-0[1-8]
